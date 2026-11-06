@@ -1,0 +1,9 @@
+# Ignored directories
+benchmark/
+rename_logs/
+
+# OS and system files
+.DS_Store
+._*
+*.tmp
+thumbs.db
